@@ -1,0 +1,99 @@
+{
+	"name": "Maxwell Marovich",
+	"email": "mmarovich@gmail.com",
+	"phone": "603-439-1948",
+	"image": "https://media.licdn.com/media/AAEAAQAAAAAAAAitAAAAJDA2MDNhN2YyLTA5NjgtNGY1My1iNmUzLTRiYTVjOTcwMDBlNQ.jpg",
+	"website": "portfolio here",
+	"linkedin": "http://www.linkedin.com/in/mmarovich",
+	"github": "https://github.com/mmarovich/",
+	"twitter": "TBA",
+	"twitterURL": "TBA",
+	"experiences" : [
+		{
+			"title" : "Student",
+			"period": "2016 - Present",
+			"company": "Thinkful Fullstack Bootcamp",
+			"companyURL": "http://www.thinkful.com",
+			"details": "Thinkful offers a 6 month bootcamp in front-end and back-end web development.  They set their students up with a 1 on 1 mentor 3 times a week, a robust and friendly slack community, and plenty of workshops, Q&As, and side preparation.  Languages learned: html/css, javascript, node.js, react.js."
+		}
+	],
+	"projects": [
+		{
+			"name":"ABC App",
+			"url": "https://mmarovich.github.io/ABC-Game/",
+			"detail": "This app was created following tutorial on REACT by Abhey Talreja.  I learned how to use .jsons files to plug in text, images, and sounds to my applications.  The course also offered a much-appreciated refresher on logic."
+		},
+		{
+			"name":"Addition App",
+			"url": "https://mmarovich.github.io/AdditionApp/",
+			"detail": "This was the first app created while learning REACT in Abhey Talreja's Udemy course.  This was a really fun way to learn the basics of REACT, as well as css animations and random number logic."
+		},
+		{
+			"name":"War, Card Game App",
+			"url": "https://mmarovich.github.io/war/",
+			"detail": "Building this application was an exercise in AJAX, Jquery, javascript, and CSS animation styling. It uses the deck of cards API (deckofcardsapi.com) and the card images and positions on the board are all kept track of by the API itself.  This was a big exercise in using event listeners and controling the flow of asyncronous operations, as well as responsive design."
+		},
+		{
+			"name":"Movie Quotes Quiz",
+			"url": "https://mmarovich.github.io/quote-quiz/",
+			"detail": "This was my first capstone project at the Thinkful bootcamp.  It demonstrates my ability to effectively use and manipulate state within a single application."
+		}
+	],
+	"skills": [
+		{
+			"name": "HTML/CSS",
+			"percent": "90%"
+		},
+		{
+			"name": "Javascript & jQuery",
+			"percent": "75%"
+		},
+		{
+			"name": "REACT",
+			"percent": "75%"
+		},
+		{
+			"name": "NODE.js",
+			"percent": "60%"
+		}
+	],
+	"education": [
+		{
+			"degree": "Fullstack Web Development",
+			"school": "Thinkful.com",
+			"period": "2016 - 2017"
+		},
+		{
+			"degree": "BM in Music Education",
+			"school": "Keene State College",
+			"period": "2004 - 2007"
+		},
+		{
+			"degree": "AA in Philosophy",
+			"school": "South Suburban College",
+			"period": "2000 - 2004"
+		}
+	],
+	"languages": [
+		{
+			"name":"English",
+			"details": "Native"
+		},
+		{
+			"name":"Spanish",
+			"details": "25%"
+		}
+	],
+	"interests": [
+		"Board Games",
+		"Hiking",
+		"Cooking",
+		"Coding"
+	]
+}
+
+
+
+
+
+
