@@ -50,7 +50,11 @@
 		},
 		{
 			"name": "REACT",
-			"percent": "75%"
+			"percent": "60%"
+		},
+		{
+			"name": "Angular",
+			"percent": "50%"
 		},
 		{
 			"name": "NODE.js",
