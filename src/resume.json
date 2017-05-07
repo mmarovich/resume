@@ -37,6 +37,11 @@
 			"name":"Movie Quotes Quiz",
 			"url": "https://mmarovich.github.io/quote-quiz/",
 			"detail": "This was my first capstone project at the Thinkful bootcamp.  It demonstrates my ability to effectively use and manipulate state within a single application."
+		},
+		{
+			"name":"Political Hub",
+			"url": "https://politics3.herokuapp.com/",
+			"detail": "Using Node.js in conjunction with Google Civics API, I was able to build an app where you can log in, enter your location, and receive information on your political representatives.  Passwords are hashed using bcrypt, and user data is currently stored in MongoDB, along with a database for mocha/chai testing."
 		}
 	],
 	"skills": [
@@ -50,11 +55,11 @@
 		},
 		{
 			"name": "REACT",
-			"percent": "60%"
+			"percent": "65%"
 		},
 		{
 			"name": "Angular",
-			"percent": "50%"
+			"percent": "40%"
 		},
 		{
 			"name": "NODE.js",
