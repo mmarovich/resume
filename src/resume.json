@@ -19,6 +19,11 @@
 	],
 	"projects": [
 		{
+			"name":"Political Hub",
+			"url": "https://politics3.herokuapp.com/",
+			"detail": "Using Node.js in conjunction with the Google Civics API (https://developers.google.com/civic-information), I was able to build an app where you can log in, enter your location, and receive information on your political representatives.  Passwords are hashed using bcrypt, and user data is currently stored in MongoDB, along with a database for mocha/chai testing."
+		},
+		{
 			"name":"ABC App",
 			"url": "https://mmarovich.github.io/ABC-Game/",
 			"detail": "This app was created following tutorial on REACT by Abhey Talreja.  I learned how to use .jsons files to plug in text, images, and sounds to my applications.  The course also offered a much-appreciated refresher on logic."
@@ -37,11 +42,6 @@
 			"name":"Movie Quotes Quiz",
 			"url": "https://mmarovich.github.io/quote-quiz/",
 			"detail": "This was my first capstone project at the Thinkful bootcamp.  It demonstrates my ability to effectively use and manipulate state within a single application."
-		},
-		{
-			"name":"Political Hub",
-			"url": "https://politics3.herokuapp.com/",
-			"detail": "Using Node.js in conjunction with Google Civics API, I was able to build an app where you can log in, enter your location, and receive information on your political representatives.  Passwords are hashed using bcrypt, and user data is currently stored in MongoDB, along with a database for mocha/chai testing."
 		}
 	],
 	"skills": [
@@ -58,12 +58,12 @@
 			"percent": "65%"
 		},
 		{
-			"name": "Angular",
-			"percent": "40%"
-		},
-		{
 			"name": "NODE.js",
 			"percent": "60%"
+		},
+		{
+			"name": "Angular",
+			"percent": "40%"
 		}
 	],
 	"education": [
