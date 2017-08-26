@@ -19,19 +19,14 @@
 	],
 	"projects": [
 		{
-			"name":"Political Hub",
-			"url": "https://politics3.herokuapp.com/",
-			"detail": "Using Node.js in conjunction with the Google Civics API (https://developers.google.com/civic-information), I was able to build an app where you can log in, enter your location, and receive information on your political representatives.  Passwords are hashed using bcrypt, and user data is currently stored in MongoDB, along with a database for mocha/chai testing."
+			"name":"Politikos",
+			"url": "https://politikos.herokuapp.com/",
+			"detail": "This is a full stack project using a React.js front-end and a Node.js backend. The Google Civics API (https://developers.google.com/civic-information) allows me to show clients their current political representatives and collaborate using facebook-style posts and comments. Passwords are hashed using bcrypt, and user data is currently stored in MongoDB."
 		},
 		{
-			"name":"ABC App",
-			"url": "https://mmarovich.github.io/ABC-Game/",
-			"detail": "This app was created following tutorial on REACT by Abhey Talreja.  I learned how to use .jsons files to plug in text, images, and sounds to my applications.  The course also offered a much-appreciated refresher on logic."
-		},
-		{
-			"name":"Addition App",
-			"url": "https://mmarovich.github.io/AdditionApp/",
-			"detail": "This was the first app created while learning REACT in Abhey Talreja's Udemy course.  This was a really fun way to learn the basics of REACT, as well as css animations and random number logic."
+			"name":"WhetherYouLike",
+			"url": "https://whetheryoulike.herokuapp.com/",
+			"detail": "WhetherYouLike is an android mobile application prototype, where the user can customize a screen with weather, date/time, and location information. Elements are customizeable, draggable, and there is even an option for webcam.  This project will eventually be converted to either React Native, or Kotlin."
 		},
 		{
 			"name":"War, Card Game App",
@@ -55,15 +50,15 @@
 		},
 		{
 			"name": "REACT",
-			"percent": "65%"
+			"percent": "80%"
+		},
+		{
+			"name": "React Native",
+			"percent": "50%"
 		},
 		{
 			"name": "NODE.js",
-			"percent": "60%"
-		},
-		{
-			"name": "Angular",
-			"percent": "40%"
+			"percent": "70%"
 		}
 	],
 	"education": [
